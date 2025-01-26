@@ -1,6 +1,5 @@
 # display-servo-control
 
-# Description
 This project consists an OLED screen, a potentiometer, and a servo motor to produce a visual and operational feedback system. The potentiometer moves a loading bar on the OLED screen and also controls the angle of a servo motor at the same time. It's an simple method to illustrate analog-to-digital conversion, PWM control, and I2C communication in Arduino. Heres  a short gif of the working.
 
 # wokwi-file
