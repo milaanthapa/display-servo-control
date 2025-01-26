@@ -8,13 +8,13 @@ This project consists an OLED screen, a potentiometer, and a servo motor to prod
 
 
 # Parts Used
-Arduino Uno/Nano/Other
-OLED Display (128x64, SSD1306-based)
-Potentiometer
-Servo Motor
-Connecting wires
-Breadboard
-Power supply
+* Arduino Uno/Nano/Other
+* OLED Display (128x64, SSD1306-based)
+* Potentiometer
+* Servo Motor
+* Connecting wires
+* Breadboard
+* Power supply
 
 # How It Works
 The potentiometer provides an analog value, and that is converted to control:
